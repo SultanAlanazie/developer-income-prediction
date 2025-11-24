@@ -61,8 +61,7 @@ from sklearn.metrics import (
  ┣ 📜 README.md
  ┣ 📜 survey_income_prediction.ipynb   → Main project notebook (CRISP-DM)
  ┣ 📜 survey_results_public.csv        → Source dataset (not provided by default)
- ┣ 📜 requirements.txt                 → List of Python dependencies (optional)
- ┗ 📂 images/                          → Saved figures (optional)
+ ┣ 📜 requirements.txt                 → List of Python dependencies
 ```
 
 ---
