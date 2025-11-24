@@ -57,10 +57,10 @@ from sklearn.metrics import (
 # 📁 **Repository Structure**
 
 ```
-📦 developer-income-ml
+📦 developer-income-prediction
  ┣ 📜 README.md
  ┣ 📜 survey_income_prediction.ipynb   → Main project notebook (CRISP-DM)
- ┣ 📜 survey_results_public.csv        → Source dataset (not provided by default)
+ ┣ 📜 survey_results_public.csv        → Source dataset
  ┣ 📜 requirements.txt                 → List of Python dependencies
 ```
 
